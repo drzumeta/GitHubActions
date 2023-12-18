@@ -1,5 +1,5 @@
 <header>
-
+# This change is made only to reflect the ability to run a workflow 🙌
 <!--
   <<< Author notes: Course header >>>
   Include a 1280x640 image, course title in sentence case, and a concise description in emphasis.
